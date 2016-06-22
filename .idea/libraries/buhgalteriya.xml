@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="buhgalteriya">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/buhgalteriya.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
